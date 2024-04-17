@@ -1,0 +1,11 @@
+.profile-bg{
+    height: 200px;
+}
+.profile-circle{
+    width: 8rem;
+    height: 8rem;
+    transform: translateY(-50px) translateX(50px);
+}
+.card{
+    border: 1px solid grey !important;
+}

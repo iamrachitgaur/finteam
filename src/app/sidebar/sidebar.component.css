@@ -1,0 +1,7 @@
+.sidebar-height{
+    height: calc(100vh - 1rem);
+}
+.active{
+    color: var(--theme-white) !important;
+    background-color: var(--theme-voilet) !important;
+}
